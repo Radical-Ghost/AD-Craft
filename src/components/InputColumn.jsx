@@ -9,7 +9,7 @@ const InputColumn = () => {
 		cta: "",
 		"font-style": "Roboto",
 		"font-color": "#ffffff",
-		"font-size": 16,
+		"font-size": 40,
 		"font-width": 4,
 	});
 

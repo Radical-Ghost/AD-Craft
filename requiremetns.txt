@@ -1,0 +1,14 @@
+Flask==2.3.2
+Flask-Cors==4.0.0
+yt-dlp==2023.11.16
+scenedetect==0.6.2
+torch==2.1.0
+torchvision==0.16.0
+clip @ git+https://github.com/openai/CLIP.git
+opencv-python==4.8.1.78
+moviepy==1.0.3
+Pillow==10.1.0
+numpy==1.26.2
+scikit-image==0.22.0
+imageio==2.33.0
+imageio-ffmpeg==0.4.9
