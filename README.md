@@ -55,15 +55,8 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/video-to-ad.git
+git clone https://github.com/Radical-Ghost/AD-Craft.git
 cd video-to-ad
-```
-
-### Set Up Virtual Environment
-
-```bash
-python -m venv venv
-source venv/bin/activate # For Windows: venv\Scripts\activate
 ```
 
 ### Install Dependencies
